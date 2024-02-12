@@ -162,4 +162,5 @@ int deback = dequ.back();
 std::cout << "\n front == "<< defront;
 std::cout << "\n back" << deback;*/
 
+	std::cout << "123\n";
 }
