@@ -155,7 +155,7 @@ st.push(3464);
 st.push(675849);
 st.pop();
 st.pop();
-std::cout << "\n" << st.top();
+printf("\n%d",st.top());
 
 /*int defront = dequ.front();
 int deback = dequ.back();
