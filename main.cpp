@@ -10,7 +10,7 @@ void swapargs (X &a, X &b)
 	temp = a;
 	a = b;
 	b = temp;
-	std::cout << "template func\n";
+	printf("template func\n");
 }
 
 template<>
@@ -154,7 +154,7 @@ st.push(35);
 st.push(3464);
 st.push(675849);
 st.pop();
-st.pop();
+
 printf("\n%d",st.top());
 
 /*int defront = dequ.front();
