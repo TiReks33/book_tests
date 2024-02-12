@@ -10,7 +10,7 @@
 
 #include <cstring>
 
-
+//addition from VBox machine
 
 template <typename X>
 
