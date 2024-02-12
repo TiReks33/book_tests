@@ -10,7 +10,7 @@ void swapargs (X &a, X &b)
 	temp = a;
 	a = b;
 	b = temp;
-	std::cout << "template func\n";
+	printf("template func\n");
 }
 
 template<>
